@@ -40,13 +40,12 @@ npm install
 Frontend Setup
 Configure Google Maps API Key:
 
-In the frontend/src/components/Map/MapComponent.jsx file, replace the placeholder <YOUR_GOOGLE_MAPS_API_KEY> with your actual Google Maps API key.
 Start the frontend application:
 
 bash
 Copy code
 npm run dev
-The frontend will be accessible at http://localhost:3000.
+The frontend will be accessible at http://localhost:3500.
 
 Backend Setup
 Configure MongoDB Connection:
